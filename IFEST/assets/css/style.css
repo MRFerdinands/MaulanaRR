@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Poppins;
+  src: url("/assets/vendor/font/Poppins-Black.ttf");
+  /* src: url("/assets/vendor/font/Poppins-BlackItalic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-Bold.ttf");
+  /* src: url("/assets/vendor/font/Poppins-BoldItalic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-ExtraBold.ttf");
+  /* src: url("/assets/vendor/font/Poppins-ExtraBoldItalic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-ExtraLight.ttf");
+  /* src: url("/assets/vendor/font/Poppins-ExtraLightItalic.ttf"); */
+  /* src: url("/assets/vendor/font/Poppins-Italic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-Light.ttf");
+  /* src: url("/assets/vendor/font/Poppins-LightItalic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-Medium.ttf");
+  /* src: url("/assets/vendor/font/Poppins-MediumItalic.ttf"); */
+  src: url("/assets/vendor/font/Poppins-Regular.ttf");
+  /* src: url("/assets/vendor/font/Poppins-SemiBold.ttf"); */
+  /* src: url("/assets/vendor/font/Poppins-SemiBoldItalic.ttf"); */
+  /* src: url("/assets/vendor/font/Poppins-Thin.ttf"); */
+  /* src: url("/assets/vendor/font/Poppins-ThinItalic.ttf"); */
+}
+
+* {
+  font-family: Poppins, sans-serif;
+}

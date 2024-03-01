@@ -1,0 +1,24 @@
+Presentasi : 
+perkenalkan nama saya m. maulana reza revaldi, saya berasal dari smk krian 1 sidoarjo tepat nya duduk di bangku kelas 12
+ jurusan rekayasa perangkat lunak. dan disamping saya ini ada rekan saya......
+tema dari lomba ini adalah membuat gen z menjadi inovatif dan unggul, okeh karena itu saya dan rekan saya
+ memutuskan website gallery. alasan saya dan rekan saya memilih membuat website gallery karena ada beberapa alasan, yaitu : 
+1.mendorong kreativitas para gen z untuk berkarya, karena di website ini kita bisa memamerkan karya seni kita,melihat karya seni
+ orang lain dan membeli atau menjual karya seni kita kepada orang lain. dan selain itu di website kita ini
+bersifat mengajak para kaum gen z untuk terus berkarya dan melatih/menggali bakat yang terpendam.
+2.dapat sebagai peluang bisnis untuk para gen z berkejra secara freelance, karena karya seni kita bisa
+ kita jual di website ini. selain dapat mendorong kreativitas para kaum gen z untuk menjadi unggul dan inovatif. website ini juga dapat
+ mengajarkan para kaum gen z  bagaimana sih cara mencari uang secara online dan freelance di kemajuan teknologi yang sangat
+ cepat ini. dan juga dapat memberikan semangat untuk para kaum gen z supaya lebih kreatif dan inovatif untuk membuat suatu
+ karya seni dan karya seni itu dapat
+ terjual kepada orang lain. selanjutkan kita akan mungkin kita akan menjelaskan bagaimana kita membuat website dan alur kerja dari website ini.
+login page,home page(rio)
+
+disini saya akan menjelaskan halaman foto dan profile. yang pertama saya akan menjelaskan halaman foto, dihalaman foto sendiri kita ada 
+beberapa fitur, yang pertama yaitu list kategori foto, saya membuat dengan menggunakan ul yang di display flex lalu di kasih margin pada 
+setiap li nya, yang kedua ada urutkan berdasarkan, disini saya menggunakan menu dropdown untuk menampilkan pilihan sort by nya, lalu yang ketiga
+ ada tampilan foto, di tampilan foto ini bisa di klik, lalu akan menampilkan ke halaman detail foto yang berisi detail foto tersebut, 
+di halaman ini kita juga bisa melihat prodfile pengunggah dari foto ini yaitu dengan cara kita klik nama pada headaer modal ini, lalu akan keluar
+ beberapa detail dari profile peng upload foto ini, disini saya menggunakan vanilla js atau js biasa untuk menampilkan menu profile ini,
+ini adalah contoh yang gratis yang bisa langsung di unduh tanpa membayar, selanjut nya ada foto yang dijual, mungkin hampir sama seperti detail foto 
+yang sebelumnya tetapi yang membedakan disini yaitu ada informasi hak milik dari foto ini dan button untuk membeli foto ini, ketika kita klik ki
